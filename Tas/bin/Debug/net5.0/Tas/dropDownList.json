@@ -1,0 +1,10 @@
+{
+   "dropDownList":[
+        { "item_id": 1, "item_text": "Guadalajara"},
+        { "item_id": 3, "item_text": "Reynosa"},
+        { "item_id": 4, "item_text": "Tijuana"},
+        { "item_id": 5, "item_text": "Aguascalientes"},
+        { "item_id": 6, "item_text": "Merida"},
+        { "item_id": 7, "item_text": "Noe"}
+   ]
+}

@@ -1,0 +1,13 @@
+{
+   "barChartData":[
+      { "data": [65,30], "label": "Guadalajara"},
+      { "data": [47,39], "label": "Reynosa"},
+      { "data": [87,40], "label": "Tujiana"},
+      { "data": [23,41], "label": "Laredo"},
+      { "data": [76,23], "label": "Aguascalientes"},
+      { "data": [58,43], "label": "Merida"},
+      { "data": [64,12], "label": "San Luis Potoso"},
+      { "data": [34,76], "label": "CD MX"},
+      { "data": [24,54], "label": "San Diego"}
+   ]    
+}

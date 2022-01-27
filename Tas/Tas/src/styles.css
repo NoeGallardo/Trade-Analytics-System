@@ -1,0 +1,49 @@
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+.img-trade {
+  width: 5%;
+  height: 5%;
+}
+
+
+/* ----- Estilos del calendario ------- */
+.calendar {
+  width: 80px;
+  font-size: small;
+}
+
+.bi-calendar3 {
+  font-size: 25px;
+  vertical-align: sub;
+}
+
+/* -----------------------------------*/
+
+
+.animated {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+  }
+  
+  .fast {
+    -webkit-animation-duration: 0.4s;
+    animation-duration: 0.4s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+  
+    to {
+      opacity: 1;
+    }
+  }
+  
+  .fadeIn {
+    animation-name: fadeIn;
+  }
